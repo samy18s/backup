@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe.config
+c:\users\admin\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe
+c:\users\admin\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.pdb
+c:\users\admin\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.exe
+c:\users\admin\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.pdb

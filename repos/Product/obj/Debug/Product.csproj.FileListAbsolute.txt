@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Produt\Produt\obj\Debug\Product.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Produt\Produt\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Produt\Produt\obj\Debug\Produt.exe
+C:\Users\Admin\source\repos\Produt\Produt\obj\Debug\Produt.pdb
+C:\Users\Admin\source\repos\Produt\Produt\bin\Debug\Produt.exe.config
+C:\Users\Admin\source\repos\Produt\Produt\bin\Debug\Produt.exe
+C:\Users\Admin\source\repos\Produt\Produt\bin\Debug\Produt.pdb

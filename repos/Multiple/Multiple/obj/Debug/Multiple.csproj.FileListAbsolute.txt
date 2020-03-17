@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Multiple\Multiple\bin\Debug\Multiple.exe.config
+C:\Users\Admin\source\repos\Multiple\Multiple\bin\Debug\Multiple.exe
+C:\Users\Admin\source\repos\Multiple\Multiple\bin\Debug\Multiple.pdb
+C:\Users\Admin\source\repos\Multiple\Multiple\obj\Debug\Multiple.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Multiple\Multiple\obj\Debug\Multiple.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Multiple\Multiple\obj\Debug\Multiple.exe
+C:\Users\Admin\source\repos\Multiple\Multiple\obj\Debug\Multiple.pdb

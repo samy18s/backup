@@ -1,0 +1,46 @@
+﻿@model RazorDemo.Models.Product[]
+@{
+    Layout = "~/Views/BasicLayout.cshtml";
+    ViewBag.Title = "DemoArray";
+    int iter = 0;
+    int productLength = Model.Length;
+}
+
+
+
+@if (Model.Length > 0)
+{
+    <table>
+        <thead>
+            <tr><th>Product</th><th>Price</th></tr>
+        </thead>
+        <tbody>
+             @foreach (RazorDemo.Models.Product p in Model)
+                {
+                    <tr>
+                        <td>@p.Name</td>
+                        <td>@p.Price</td>
+                    </tr>
+                }
+        </tbody>
+    </table>
+    <table>
+        <thead>
+            <tr><th>Product</th><th>Price</th></tr>
+        </thead>
+        <tbody>
+            @while(iter<productLength)
+            {
+                <tr>
+                    <td>@Model[iter].Name</td>
+                    <td>@Model[iter].Price</td>
+                </tr>
+                iter++;
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <h2>No Product Data</h2>
+}

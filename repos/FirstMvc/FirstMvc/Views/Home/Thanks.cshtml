@@ -1,0 +1,27 @@
+﻿@model FirstMvc.Models.GetResponses
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+</head>
+<body>
+    <h1>Thank You @Model.Name</h1>
+    <div class="lead">
+        @if (Model.WillAttend == true)
+        {
+            @:Its great that you are attending.YOur seat is reserved.
+        }
+        else
+        {
+            @:Sorry to hear that you can't make it.
+        }
+        
+    </div>
+</body>
+</html>

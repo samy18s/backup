@@ -1,0 +1,14 @@
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EFCodeFirstApp.exe.config
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EFCodeFirstApp.exe
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EFCodeFirstApp.pdb
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EntityFramework.dll
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EntityFramework.xml
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.csprojAssemblyReference.cache
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.csproj.CopyComplete
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.exe
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.pdb
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.Migrations.Product.resources
+c:\users\admin\source\repos\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.csproj.GenerateResource.cache

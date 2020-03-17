@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KahiPan", "KahiPan\KahiPan.csproj", "{1D2F6462-61D7-41C6-AAC9-F31A9087988D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D2F6462-61D7-41C6-AAC9-F31A9087988D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2F6462-61D7-41C6-AAC9-F31A9087988D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2F6462-61D7-41C6-AAC9-F31A9087988D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2F6462-61D7-41C6-AAC9-F31A9087988D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E099717-6E77-43B3-9B93-08C0C9548C8A}
+	EndGlobalSection
+EndGlobal

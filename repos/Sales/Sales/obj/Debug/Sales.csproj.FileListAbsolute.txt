@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Sales\Sales\bin\Debug\Sales.exe.config
+C:\Users\Admin\source\repos\Sales\Sales\bin\Debug\Sales.exe
+C:\Users\Admin\source\repos\Sales\Sales\bin\Debug\Sales.pdb
+C:\Users\Admin\source\repos\Sales\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Sales\Sales\obj\Debug\Sales.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Sales\Sales\obj\Debug\Sales.exe
+C:\Users\Admin\source\repos\Sales\Sales\obj\Debug\Sales.pdb

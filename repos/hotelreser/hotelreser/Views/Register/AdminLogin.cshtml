@@ -1,0 +1,47 @@
+﻿
+
+@model hotelreser.Models.admin
+@{
+    ViewBag.Title = "adminregister";
+}
+
+<h2>Login</h2>
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href=" ~/content/bootstrap.css" rel="stylesheet" />
+    <link href=" ~/content/bootstrap-theme.css" rel="stylesheet" />
+    <link href=" ~/content/StyleSheet.css" rel="stylesheet" />
+
+    <title>Register</title>
+
+</head>
+<body>
+    <div class="abcd">
+        <div class="panel panel-info" style="width:40%">
+            <div class="panel-heading text-center"><h3>Visitor Registration</h3></div>
+
+            <div class="panel-body">
+                @using (Html.BeginForm())
+                {
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        <label>UserName </label> @Html.TextBoxFor(x => x.adminname, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.adminname, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label>Password </label> @Html.PasswordFor(x => x.pass, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.pass, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="text-center">
+                        <input class=" btn btn-success" type="submit" value=" Login" />
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

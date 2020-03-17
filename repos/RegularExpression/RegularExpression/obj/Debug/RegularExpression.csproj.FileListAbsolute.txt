@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe.config
+C:\Users\Admin\source\repos\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe
+C:\Users\Admin\source\repos\RegularExpression\RegularExpression\bin\Debug\RegularExpression.pdb
+C:\Users\Admin\source\repos\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RegularExpression\RegularExpression\obj\Debug\RegularExpression.exe
+C:\Users\Admin\source\repos\RegularExpression\RegularExpression\obj\Debug\RegularExpression.pdb

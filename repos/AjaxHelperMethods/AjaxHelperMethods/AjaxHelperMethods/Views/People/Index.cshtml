@@ -1,0 +1,30 @@
+﻿
+<html>
+<body>
+    <table>
+        <thead><tr> <th> Helper</th><th>Output</th></tr></thead>
+        <tbody>
+            <tr>
+                <td> Url.Content("~/Content/site.css")</td>
+                <td>@Url.Content("~/Content/site.css")</td>
+            </tr>
+            <tr>
+                <td> Html.ActionLink("My Link", "Index", "home")</td>
+                <td> @Html.ActionLink("My Link", "Index", "home")</td>
+            </tr>
+            <tr>
+                <td> Url.Action("GetPeople", "People")</td>
+                <td> @Url.Action("GetPeople", "People")</td>
+            </tr>
+            <tr>
+                <td> Url.RouteUrl(new {controller= "People", action="GetPeople")</td>
+                <td> @Url.RouteUrl(new { controller = "People", action = "GetPeople" })</td>
+            </tr>
+            <tr>
+                <td> Html.RouteLink("GetPeople", new { controller = "People", action = "GetPeople" })</td>
+                <td> @Html.RouteLink("GetPeople", new { controller = "People", action = "GetPeople" })</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

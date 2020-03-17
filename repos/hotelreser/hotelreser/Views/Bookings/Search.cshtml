@@ -1,0 +1,58 @@
+﻿@model IEnumerable<hotelreser.Models.Booking>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm("Search", "Bookings", FormMethod.Get))
+{
+    <b> Search by</b> @Html.RadioButton("searchby", "roomtype", true)<b> Author</b>
+    @Html.RadioButton("searchby", "Email") <b> Book_Name</b><br />
+    @Html.TextBox("search") <input type="submit" value=" Search" />
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.roomtype)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.checkin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.noofnight)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.roomtype)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.checkin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.noofnight)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.bookingid }) |
+                @Html.ActionLink("Details", "Details", new { id = item.bookingid }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.bookingid })
+            </td>
+        </tr>
+    }
+
+</table>

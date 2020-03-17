@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+c:\users\admin\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+c:\users\admin\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+c:\users\admin\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+c:\users\admin\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.pdb

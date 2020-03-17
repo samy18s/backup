@@ -1,0 +1,60 @@
+﻿@model RazorDemo.Models.Product
+@{
+    ViewBag.Title = "DemoExpression";
+    Layout = "~/Views/BasicLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<table>
+    <thead>
+        <tr><th>Product</th><th>Values</th></tr>
+        <tr><td>Price</td><td>@Model.Price</td></tr>
+        <tr><td>Category</td><td>@Model.Category</td></tr>
+        <tr><td>Id</td><td>@ViewBag.pid</td></tr>
+        <tr>
+            <td>Stock Level</td>
+            <td>
+                @switch ((int)ViewBag.pid)
+                {
+                    case 0:
+                        @:Out of Stock
+                        break;
+                    case 1:
+                        <b>Low Stock @ViewBag.pid</b>
+                        break;
+                    default:
+                        @ViewBag.pid
+                        break;
+                }
+            </td>
+        </tr>
+        <tr><td>Stock Level using ifelse</td><td>
+               @if ((int)ViewBag.pid == 0)
+               {
+                   @:out of stock
+               }
+               else if(ViewBag.pid==1)
+               {
+                   <b>Low Stock @ViewBag.pid</b>
+               }
+               else
+               {
+                   @ViewBag.pid
+               }
+               
+               </td>
+        </tr>
+    </thead>
+</table>
+<div data-discount="@ViewBag.ApplyDiscount" data-express="@ViewBag.ExpressShip" data-supplier="@ViewBag.Supplier">
+    The containing element has data attributes
+</div>
+
+<input type="checkbox" checked="@ViewBag.ApplyDiscount" />
+Discount:
+<input type="checkbox" checked="@ViewBag.ExpressShip" />
+Express:
+<input type="checkbox" checked="@ViewBag.Supplier" />
+Supplier:
+<h2>DemoExpression</h2>
+

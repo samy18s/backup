@@ -1,0 +1,13 @@
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.xml
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.dll
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.pdb
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.vbprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.Resources.resources
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.vbproj.GenerateResource.Cache
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.vbproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.xml
+c:\users\admin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

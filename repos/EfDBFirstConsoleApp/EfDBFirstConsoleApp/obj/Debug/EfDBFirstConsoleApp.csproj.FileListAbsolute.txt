@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\EfDBFirstConsoleApp\EfDBFirstConsoleApp\bin\Debug\EfDBFirstConsoleApp.exe.config
+C:\Users\Admin\source\repos\EfDBFirstConsoleApp\EfDBFirstConsoleApp\bin\Debug\EfDBFirstConsoleApp.exe
+C:\Users\Admin\source\repos\EfDBFirstConsoleApp\EfDBFirstConsoleApp\bin\Debug\EfDBFirstConsoleApp.pdb
+C:\Users\Admin\source\repos\EfDBFirstConsoleApp\EfDBFirstConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\EfDBFirstConsoleApp\EfDBFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\EfDBFirstConsoleApp\EfDBFirstConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\EfDBFirstConsoleApp\EfDBFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\EfDBFirstConsoleApp\EfDBFirstConsoleApp\obj\Debug\EfDBFirstConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\EfDBFirstConsoleApp\EfDBFirstConsoleApp\obj\Debug\EfDBFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EfDBFirstConsoleApp\EfDBFirstConsoleApp\obj\Debug\EfDBFirstConsoleApp.exe
+C:\Users\Admin\source\repos\EfDBFirstConsoleApp\EfDBFirstConsoleApp\obj\Debug\EfDBFirstConsoleApp.pdb
